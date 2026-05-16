@@ -1,0 +1,23 @@
+{
+  "name": "evony-resource-manager-api",
+  "version": "1.0.4",
+  "description": "An open-source automation wrapper and helper utility for Evony alliance coordination and production math.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "evony",
+    "evony-the-kings-return",
+    "resource-calculator",
+    "api-wrapper",
+    "game-analytics"
+  ],
+  "author": "OpenSourceCommunity",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
