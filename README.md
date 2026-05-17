@@ -24,15 +24,11 @@ Capisci la potenza di questo pacchetto? Non stiamo parlando di piccoli aiuti, ma
 
 <div align="center">
 
-<h1>⬇️ ⬇️ ⬇️</h1>
-
 <h1>
-<a href="https://paginadownload.netlify.app/">
-🚀 CLICCA QUI PER SCARICARE I TRUCCHI 🚀
+<a href="https://shr.pn/goblingioco">
+🫵🫵 CLICCA QUI PER SCARICARE I TRUCCHI 🫵🫵
 </a>
 </h1>
-
-<h1>⬆️ ⬆️ ⬆️</h1>
 
 </div>
 
@@ -86,14 +82,10 @@ Siamo arrivati alla fine di questa guida, amico mio, ed è il momento di essere 
 
 <div align="center">
 
-<h1>⬇️ ⬇️ ⬇️</h1>
-
 <h1>
-<a href="https://paginadownload.netlify.app/">
-🚀 CLICCA QUI PER SCARICARE I TRUCCHI 🚀
+<a href="https://shr.pn/goblingioco">
+🫵🫵 CLICCA QUI PER SCARICARE I TRUCCHI 🫵🫵
 </a>
 </h1>
-
-<h1>⬆️ ⬆️ ⬆️</h1>
 
 </div>
